@@ -7,3 +7,7 @@ comment from childbranch1
 
 added comment for master branch
 
+1st comment from childbranch2
+
+
+2nd comment from childbranch2
